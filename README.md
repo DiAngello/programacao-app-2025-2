@@ -41,8 +41,6 @@ As principais tecnologias usadas para o desenvolvimento das atividades incluem:
 
 ## Atividades 📌
 
-Aqui está um resumo de cada atividade proposta na disciplina.
-
 #### Atividade 1: Jogo em JavaScript
 * **Descrição:** Desenvolver um jogo utilizando JavaScript puro, com foco no uso de classes. A interação do usuário poderia ser via console ou através de um array de jogadas.
 
