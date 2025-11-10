@@ -56,7 +56,10 @@ Aqui está um resumo de cada atividade proposta na disciplina.
 * **Descrição:** Continuação da Atividade 3, adicionando funcionalidade à tela de login com `useState` para validar os campos e navegar para outra página.
 
 #### Atividade 5: Navegação Avançada (Tab + Stack)
-* **Descrição:** Criação de uma navegação Tab com 3 telas distintas. Dentro de cada Tab, implementar uma navegação Stack para outras telas.
+* **Descrição:** Criar um app em React Native conectado ao Firebase Firestore, permitindo cadastrar, listar, editar e excluir produtos.
+
+#### Atividade 6: Banco de dados no Firebase + CRUD
+* **Descrição:** 
   
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
