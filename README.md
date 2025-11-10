@@ -41,6 +41,8 @@ As principais tecnologias usadas para o desenvolvimento das atividades incluem:
 
 ## Atividades 📌
 
+Aqui está um resumo de cada atividade proposta na disciplina.
+
 #### Atividade 1: Jogo em JavaScript
 * **Descrição:** Desenvolver um jogo utilizando JavaScript puro, com foco no uso de classes. A interação do usuário poderia ser via console ou através de um array de jogadas.
 
@@ -54,10 +56,10 @@ As principais tecnologias usadas para o desenvolvimento das atividades incluem:
 * **Descrição:** Continuação da Atividade 3, adicionando funcionalidade à tela de login com `useState` para validar os campos e navegar para outra página.
 
 #### Atividade 5: Navegação Avançada (Tab + Stack)
-* **Descrição:** Criar um app em React Native conectado ao Firebase Firestore, permitindo cadastrar, listar, editar e excluir produtos.
+* **Descrição:** Criação de uma navegação Tab com 3 telas distintas. Dentro de cada Tab, implementar uma navegação Stack para outras telas.
 
 #### Atividade 6: Banco de dados no Firebase + CRUD
-* **Descrição:** 
+* **Descrição:** Criar um app em React Native conectado ao Firebase Firestore, permitindo cadastrar, listar, editar e excluir produtos.
   
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
