@@ -60,6 +60,9 @@ Aqui está um resumo de cada atividade proposta na disciplina.
 
 #### Atividade 6: Banco de dados no Firebase + CRUD
 * **Descrição:** Criar um app em React Native conectado ao Firebase Firestore, permitindo cadastrar, listar, editar e excluir produtos.
+
+#### Atividade 7: Animações no App
+* **Descrição:** Adicionar animações em todas as interações do aplicativo desenvolvido na atividade anterior (Atividade 6: Banco de dados no Firebase + CRUD). 
   
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
